@@ -1,2 +1,2 @@
-# PyQt5_Calculator
+# PyQt6_Calculator
 
